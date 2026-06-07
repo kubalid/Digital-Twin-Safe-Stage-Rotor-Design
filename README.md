@@ -164,4 +164,22 @@ Below are the photographs and visual results of the fully assembled and integrat
 <img width="4284" height="5712" alt="IMG_1731" src="https://github.com/user-attachments/assets/4ad09c5e-3c6f-41ff-81fe-62b6c53076bb" />
 
 
+https://github.com/user-attachments/assets/79c351df-109b-49e4-b986-bbf676ce093a
+
 </p>
+
+
+For a better quality photos and videos, here is my google drive link
+https://drive.google.com/drive/folders/10J8Htn7ib1zHesmU3C8aU7uZpWQstneW?usp=sharing
+
+---
+
+## The Team
+ 
+* **Piotr Wieleba**: 
+* **Mateusz Zych**: 
+* **Paweł Jędryczka**:
+* **Jakub Lidzbarski**:
+* **Bartosz Korycki**:
+* **Kamil Kaczmarek**:
+* **Artur Zakacz**:

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<DownloadTask xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ProjectInfo ProjectId="7277417b-8dea-4e22-84a9-21d6754d9260" ESProjectName="Projekt_scena_13.05.2026_roboczy_2" ESDeviceName="HMI_RT_1" RtProjectFolderName="Projekt_scena_13.05.2026_roboczy_2.HMI_1[MTP700 Unified Comfort]" RtProjectName="Projekt_scena_13.05.2026_roboczy_2.HMI_1[MTP700 Unified Comfort]" DeviceType="MTP700 Unified Comfort" DeviceVersion="20.0.0.0" CreationTime="02/23/2026 11:46:22" RuntimeAddonFolderName="UCP_7_22" FirmwareFileName="UCP_7_22\UCP_7_22_V20_0.fwf" RuntimeFileName="" PRCV="6.0.0.1" RTCV="16.0.0.0" RTReleaseNo="20.0.0.0" ImageReleaseNo="20.0.0.0" />
+  <FullDownload type="ADMINDATA">UMCData.json</FullDownload>
+  <FullDownload>User.pbb</FullDownload>
+  <FullDownload>{894AD6A7-6155-424B-AA9D-7E77FD174D24}.zip</FullDownload>
+  <FullDownload>{9BA2ACF0-39B3-465B-8E10-28301ED605C5}.zip</FullDownload>
+  <FullDownload>config\config.level</FullDownload>
+  <FullDownload>device\devicesettings.pbb</FullDownload>
+  <FullDownload>device\environment.pbb</FullDownload>
+  <FullDownload>device\runtime.pbb</FullDownload>
+  <FullDownload>device\telemetry.pbb</FullDownload>
+  <FullDownload>fonts\cambria0.ttf</FullDownload>
+  <FullDownload>fonts\cambria0.woff2</FullDownload>
+  <FullDownload>fonts\SISAN03.ttf</FullDownload>
+  <FullDownload>fonts\SISAN03.woff2</FullDownload>
+  <FullDownload>general\catalog_1812_0_48_0.rdf</FullDownload>
+  <FullDownload>general\cds.rdf</FullDownload>
+  <FullDownload>general\ChromIdentification.rdf</FullDownload>
+  <FullDownload>general\config_AlertClass.rdf</FullDownload>
+  <FullDownload>general\config_AlertHandler.rdf</FullDownload>
+  <FullDownload>general\config_DistributionInfo.rdf</FullDownload>
+  <FullDownload>general\config_DpValue.rdf</FullDownload>
+  <FullDownload>general\config_HmiRuntime.rdf</FullDownload>
+  <FullDownload>general\config_InitialValue.rdf</FullDownload>
+  <FullDownload>general\config_LicenseCounter.rdf</FullDownload>
+  <FullDownload>general\config_PeripheralAddress.rdf</FullDownload>
+  <FullDownload>general\config_SecureConnAttributes.rdf</FullDownload>
+  <FullDownload>general\config_Smoothing.rdf</FullDownload>
+  <FullDownload>general\dpIdentification.rdf</FullDownload>
+  <FullDownload>general\fontLocatorList.rdf</FullDownload>
+  <FullDownload>general\main.rdf</FullDownload>
+  <FullDownload>general\ProcessDiagnosticsDnnData.rdf</FullDownload>
+  <FullDownload>general\style_296.rdf</FullDownload>
+  <FullDownload>general\style_298.rdf</FullDownload>
+  <FullDownload>general\style_300.rdf</FullDownload>
+  <FullDownload>general\SystemDiagnosticsDnnData.rdf</FullDownload>
+  <FullDownload>general\textLibrary_138_1033.rdf</FullDownload>
+  <FullDownload>general\textLibrary_2_1033.rdf</FullDownload>
+  <FullDownload>general\textListLibrary.rdf</FullDownload>
+  <FullDownload>general\textListLibrary_328.rdf</FullDownload>
+  <FullDownload>screens\screen_247.rdf</FullDownload>
+  <FullDownload>screens\screen_303.rdf</FullDownload>
+  <FullDownload>screens\screen_306.rdf</FullDownload>
+  <FullDownload>screenwindowlayouts\screenWindowLayout_301.rdf</FullDownload>
+  <FullDownload>system\ES2RTID.rdf</FullDownload>
+  <FullDownload>system\ProjectCharacteristics.rdf</FullDownload>
+</DownloadTask>
